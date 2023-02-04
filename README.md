@@ -1,3 +1,5 @@
 # GitConnect
 
-text
+## Text
+
+text > git commit > git push
