@@ -2,4 +2,4 @@
 
 ## Text
 
-text > git commit > git push
+text > git commit (-a -m) > git push
